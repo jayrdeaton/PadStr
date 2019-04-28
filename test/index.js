@@ -7,3 +7,4 @@ console.log(`|${left('test 0', 0)}`);
 console.log(`|${left('test 8', 8)}`);
 console.log(`|${left('test 10', 15)}`);
 console.log('stringLength("test")', stringLength('test'));
+console.log(`|${left(1, 10)}`);
