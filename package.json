@@ -1,0 +1,15 @@
+{
+  "name": "padstr",
+  "version": "0.0.0",
+  "description": "A node module for adding padding to a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "string",
+    "padding"
+  ],
+  "author": "Jay Deaton",
+  "license": "ISC"
+}
