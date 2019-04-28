@@ -1,6 +1,6 @@
 const { stringLength } = require('../helpers');
 
-module.exports = (string, padding, right) => {
+module.exports = (string, padding) => {
   if (!string) string = '';
   while (stringLength(string) < padding) string = ` ${string}`;
   return string;

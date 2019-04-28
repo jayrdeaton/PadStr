@@ -1,8 +1,9 @@
 const { helpers, paddings } = require('./src'),
   { stringLength } = helpers,
-  { left, right } = paddings;
+  { center, left, right } = paddings;
 
 module.exports = {
+  center,
   left,
   right,
   stringLength
